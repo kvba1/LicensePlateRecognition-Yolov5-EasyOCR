@@ -1,0 +1,5 @@
+data/*
+*.mov
+*.jpg
+*.pt
+yolov5/*
